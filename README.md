@@ -11,15 +11,20 @@ My interests span **AI, software development, cybersecurity, quantitative modeli
 
 Command-line store simulator built with classes, file handling, inventory management, and UML-based design.
 
-* ### Intelligent Search Agent
+* ### Search Agent Simulation
 **Python · Artificial Intelligence**
 
-Search-agent simulation exploring heuristics and optimization techniques such as Hill Climbing and Simulated Annealing.
+Search-agent simulation exploring heuristic search and optimization techniques such as Hill Climbing and Simulated Annealing.
 
 * ### PINN for American Option Pricing
 **Python · PyTorch · Quantitative Finance**
 
 Physics-Informed Neural Network for pricing American put options and estimating the optimal exercise boundary, validated against a binomial reference model.
+
+* ### Facial Emotion Classification
+**Python · PyTorch · Computer Vision**
+
+Convolutional Neural Network for binary facial emotion classification, incorporating data augmentation, regularization, and model evaluation.
 
 ## About My Other Work
 
